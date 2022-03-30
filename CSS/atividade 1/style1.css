@@ -1,0 +1,22 @@
+.pai{
+    background-color: red;
+     width: 500px; 
+     height: 500px;
+}
+.filho{
+    background-color:blueviolet;
+    width: 50%; 
+    height: 50%;
+}
+.neto{
+    color: blue; 
+    background-color: greenyellow;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.primo{
+    width: 100px; ; 
+    height:50vh; 
+    background-color: rgb(2, 180, 255);
+}

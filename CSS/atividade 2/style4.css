@@ -1,0 +1,31 @@
+.style1{
+background-color: #CDCDCD;
+}
+.style2{
+background-color: white;
+height: 500px;
+width: 50vw;
+border: black 10px dotted;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.style3{
+background-color: yellow;
+height: 50px;
+width: 30%;
+}
+.style4{
+background-color: rgb(225, 85, 1);
+height: 100px;
+width: 30%;
+}
+.style5{
+background-color: rgb(0, 141, 0);
+color: white;
+font-size: 30px;
+padding: 50px;
+margin-left: 50px;
+margin-top: 50px;
+
+}
